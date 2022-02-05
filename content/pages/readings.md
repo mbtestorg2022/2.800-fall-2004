@@ -22,30 +22,321 @@ Textbook Readings
 
 The readings in this table are from the course textbook: Suh, N. P. _Tribophysics_. Englewood Cliffs, NJ: Prentice-Hall, 1986. ISBN: 9780139309830. Students also read sections of Prof. Suh's new book manuscript on tribology.
 
-| LEC # | TOPICS | readings |
-| --- | --- | --- |
-| 1 | Introduction to Tribology | Chapter 1 |
-| 2 | Introduction to Tribology (cont.) | Chapter 1 |
-| 3 | Chemical and Physical State of the Solid Surface | Chapter 2 |
-| 4 | Friction | Chapter 3 |
-| 5 | Lab: Friction Measurement | &nbsp; |
-| 6 | Analysis of Large Plastic Deformation of Elasto-plastic Solids | Chapter 3, Appendix A |
-| 7 | Introduction to Wear | Chapter 5 |
-| 8 | Response of Materials to Surface Traction | Chapter 4 |
-| 9 | Wear Mechanisms | Chapter 5 |
-| 10 | Exam 1 | &nbsp; |
-| 11 | Boundary Lubrication | &nbsp; |
-| 12 | Boundary Lubrication (cont.) | &nbsp; |
-| 13 | Hydrodynamic Lubrication | &nbsp; |
-| 14 | Design of Pin Joints and Electrical Connectors | &nbsp; |
-| 15 | Design of Cutting Tools | &nbsp; |
-| 16 | Introduction to Axiomatic Design | &nbsp; |
-| 17 | Design of Low Friction Surfaces | &nbsp; |
-| 18 | Design of Seals | &nbsp; |
-| 19 | Friction and Wear of Polymers and Composites | Chapter 6, Chapter 9 |
-| 20 | Solution Wear | Chapter 8 |
-| 21 | Temperature Distribution | Chapter 8, Appendix C |
-| 22 | Erosive Wear | Section 4.2, 7.4 |
-| 23 | Exam 2 | &nbsp; |
-| 24 | Nano and Micro-tribology | &nbsp; |
-| 25 | Term Paper Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Tribology
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Tribology (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical and Physical State of the Solid Surface
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Friction
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab: Friction Measurement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of Large Plastic Deformation of Elasto-plastic Solids
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3, Appendix A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Wear
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Response of Materials to Surface Traction
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Wear Mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Boundary Lubrication
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Boundary Lubrication (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrodynamic Lubrication
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Pin Joints and Electrical Connectors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Cutting Tools
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Axiomatic Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Low Friction Surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Seals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Friction and Wear of Polymers and Composites
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6, Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Solution Wear
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Temperature Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8, Appendix C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Erosive Wear
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.2, 7.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Nano and Micro-tribology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Term Paper Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
