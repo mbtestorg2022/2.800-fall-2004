@@ -11,6 +11,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   near the surface, and thermodynamic analysis of an interface.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/936927ea9e79828ad49171bd14758f6c_ch2_solid_surfac.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch2_solid_surfac.pdf
 uid: 936927ea-9e79-828a-d491-71bd14758f6c

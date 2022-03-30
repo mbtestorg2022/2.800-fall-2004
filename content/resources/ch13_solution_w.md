@@ -10,6 +10,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   properties, and diffusion wear.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/078e9e1c9a6634c59bbf43ce1faa8562_ch13_solution_w.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch13_solution_w.pdf
 uid: 078e9e1c-9a66-34c5-9bbf-43ce1faa8562

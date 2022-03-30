@@ -14,6 +14,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   effect of coatings on friction, and conclusions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/39bee0a6dd75b805338d29c25b8a0810_ch3_friction.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch3_friction.pdf
 uid: 39bee0a6-dd75-b805-338d-29c25b8a0810

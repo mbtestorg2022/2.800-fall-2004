@@ -10,6 +10,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   refrigerator design, analysis, and common mistakes made by designers.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/7956138e737f6cb1e9fb744fcc6c48ef_ch10_axiomatic.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch10_axiomatic.pdf
 uid: 7956138e-737f-6cb1-e9fb-744fcc6c48ef

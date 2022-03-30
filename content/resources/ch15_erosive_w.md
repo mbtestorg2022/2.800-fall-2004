@@ -5,6 +5,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   of brittle materials.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/fcfcdf24f90368eb7e28bcf12b704ab4_ch15_erosive_w.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch15_erosive_w.pdf
 uid: fcfcdf24-f903-68eb-7e28-bcf12b704ab4

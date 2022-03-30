@@ -12,6 +12,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   vs. abrasive wear rates, and carbide tools cutting 4340 steel.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/970c3615772c953dea1b300e4c6dc981_ch1_trib_intro.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch1_trib_intro.pdf
 uid: 970c3615-772c-953d-ea1b-300e4c6dc981

@@ -7,6 +7,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   moving asperity, model of wearing specimen, fretting wear.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/49841547dcddc87b82263b982a60486e_ch5_wear_mech.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch5_wear_mech.pdf
 uid: 49841547-dcdd-c87b-8226-3b982a60486e

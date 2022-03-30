@@ -6,6 +6,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   crack nucleation - experimental observation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/82f5d26bac44fb5122a5818d56163da5_ch4a_wear_intro.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch4a_wear_intro.pdf
 uid: 82f5d26b-ac44-fb51-22a5-818d56163da5

@@ -14,6 +14,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   wear rate, other treat techniques for low friction and wear.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/c8f3e2b4d912535b6740f4d5321779fe_ch12_polymer.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch12_polymer.pdf
 uid: c8f3e2b4-d912-535b-6740-f4d5321779fe

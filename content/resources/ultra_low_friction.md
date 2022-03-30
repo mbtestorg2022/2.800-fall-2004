@@ -4,6 +4,7 @@ description: Creation of ulra-low friction and wear surfaces for micro-devices u
   carbon is reading for the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/53d28bb5d2fdeb070a85a4b949fadd52_ultra_low_friction.pdf
 file_type: application/pdf
+parent_uid: 39aa14b5-b729-5100-e8a4-5367beefbdc2
 resourcetype: Document
 title: ultra_low_friction.pdf
 uid: 53d28bb5-d2fd-eb07-0a85-a4b949fadd52

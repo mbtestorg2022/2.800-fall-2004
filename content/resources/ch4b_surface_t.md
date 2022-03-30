@@ -9,6 +9,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   events during loading and unloading.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/c917846739783ee317b102f67aa037eb_ch4b_surface_t.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch4b_surface_t.pdf
 uid: c9178467-3978-3ee3-17b1-02f67aa037eb

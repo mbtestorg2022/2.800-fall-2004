@@ -9,6 +9,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   connectors.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-800-tribology-fall-2004/b844ec4e4219b0e4196cd7033c6bfa35_ch11_lowfriction.pdf
 file_type: application/pdf
+parent_uid: ff28a899-0981-56b6-c341-0db6d275d6c4
 resourcetype: Document
 title: ch11_lowfriction.pdf
 uid: b844ec4e-4219-b0e4-196c-d7033c6bfa35
